@@ -1,4 +1,4 @@
-# Welcome to Revel YAY
+# Welcome to Revel YAY2
 
 A high-productivity web framework for the [Go language](http://www.golang.org/).
 
